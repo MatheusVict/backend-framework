@@ -1,0 +1,43 @@
+[
+  {
+    "_id": "635183a66e286b22d5bca976",
+    "anime": "Gurren Lagann",
+    "character": "Kamina",
+    "quote": [
+        {
+          "_id": "635183a66e286b22d5bca976",
+          "anime": "Gurren Lagann",
+          "character": "Kamina",
+          "quote": "Don't believe in the me that believe in you, don't believe in the you that believes in me, believe in yourself who believes in you!"
+        },
+        {
+          "_id": "635183a66e286b22d5bcb165",
+          "anime": "Tengen Toppa Gurren Laggan",
+          "character": "Kamina",
+          "quote": "Don't be distracted by the what-if's, should-have's, and if-only's. The one thing you choose for yourself - that is the truth of your universe."
+        }
+    ]
+  },
+  {
+    "_id": "635183a66e286b22d5bcb165",
+    "anime": "Tengen Toppa Gurren Laggan",
+    "character": "Kamina",
+    "quote": [
+      {
+        "_id": "635183a66e286b22d5bcb47a",
+        "anime": "Tengen Toppa Gurren Lagann",
+        "character": "Kamina",
+        "quote": "God gave us eyes at the front of our heads so we can look forward to the future."
+      },
+      {
+        "_id": "635183a66e286b22d5bcb576",
+        "anime": "Tengen Toppa Gurren Lagann",
+        "character": "Kamina",
+        "quote": "Don't believe in the you that believes in me and don't believe in the me that believes in you. Believe in the you that believes in yourself."
+      }
+    ]
+  }
+]
+
+
+
